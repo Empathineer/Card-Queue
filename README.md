@@ -1,12 +1,6 @@
 # Card Queue GUI 
-<div class="description user_content student-version jqueryUIWidgetized enhanced"><h1 style="text-align: center;">Assignment 6 - Queues Using Inheritance</h1>
 
-<ul>
-<li>both <span style="color: #000080;"><strong><i>m</i></strong></span><i><strong><span style="color: #000080;">odules A</span></strong></i> and <i><strong> <span style="color: #000080;">B</span></strong></i> this week, and</li>
-</ul>
-<blockquote>
-<div style="border-style: solid; border-width: 1px; padding: 1px 4px 1px 4px;"><span style="color: #008080; font-size: x-large;">Even though you learned to do multi-file projects, please continue to submit <i><strong>only one file</strong></i> with a full, working program and run.&nbsp;</span></div>
-</blockquote>
+
 <h3><u>Objective</u></h3>
 <p>This project summarizes the concepts of inheritance  learned from previous modules where we constructed base classes, <strong>StackNode</strong> and <strong>Stack,</strong> and derived&nbsp; <strong>FloatNode</strong> and <strong>FloatStack</strong> from them.&nbsp; The end goal is to write a client that shows a single <strong>DEQueue</strong> acting at times like a <strong>Stack</strong>, at other times like a <strong>Queue</strong>.&nbsp; This functionality was demonstrated by randomly adding and removing from both sides of the <strong>DEQueue</strong>.</p>
 <ol>
